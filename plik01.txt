@@ -1,4 +1,4 @@
 Pierwsza linia pliku. Autor: Adrian Pawłowski (osoba1)
 Druga linia pliku: Podwładny Jacek Kubasik (osoba2)
 Trzecia linia pliku: Podwładny Jacek Kubasik (osoba2)
-Czwarta linia pliku: Podwładny Jacek Kubasik (osoba2) AGAIN!!!!
+Czwarta linia pliku: Podwładny Jacek Kubasik (osoba2)
