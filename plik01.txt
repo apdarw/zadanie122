@@ -1,1 +1,2 @@
 Pierwsza linia pliku. Autor: Adrian Pawłowski (osoba1)
+Druga linia pliku: Podwładny Jacek Kubasik (osoba2)
